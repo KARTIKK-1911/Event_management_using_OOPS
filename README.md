@@ -40,10 +40,5 @@ Defines the relationships between entities such as users, events, and administra
 - Implementation of backup mechanisms for data recovery during system failure.
 - Expansion of features based on user demands, including advanced reporting tools.
 
----
 
-## Installation and Usage
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/Event-Management-System.git
 
